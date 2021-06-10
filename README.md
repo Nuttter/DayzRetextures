@@ -4,3 +4,5 @@ This is a free retexture for anybody to use.
 
 
 Helicopter scripts can be found at SIBNIC Moddayz https://github.com/moddayz
+
+Update: Error with Config.cpp causing helicopter configs to generate a default setting on each server restart.
